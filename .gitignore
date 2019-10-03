@@ -1,0 +1,11 @@
+syntax: glob
+Application/
+.hg/
+.svn/
+.cvs/
+.idea/
+.cache/
+.data/
+.tmp/
+.DS_Store
+.*/
